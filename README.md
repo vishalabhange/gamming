@@ -1,2 +1,1 @@
-# gamming
-this is my gamming site
+TinDog Starting Files
